@@ -1,0 +1,12 @@
+.container{
+    width:80%;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+}
+.container div{
+    margin-right: 10px;
+}
+.container div img{
+    width:250px;
+}
